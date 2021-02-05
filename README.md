@@ -27,3 +27,29 @@ This repository contains the code samples of *C# programming language*
 * *Scope of variables*
 * *Tuples*
 * *Variables*
+
+## [Chapter 3](https://github.com/Maksim-Shkrabkou/C_Sharp/tree/main/Chapter_3_Classes_OOP)
+* *Abstract classes and class members*
+* *Access modifiers*
+* *Classes and Objects*
+* *Creating class library*
+* *Difference between overriding and hiding methods*
+* *Generic type inheritance*
+* *Generics*
+* *Generics constraints*
+* *Hiding*
+* *Indexers*
+* *Inheritance*
+* *Method overloading*
+* *Namespaces aliases and static import*
+* *Null value*
+* *Operator overloading*
+* *Overloading type conversion operations*
+* *Properties*
+* *Reading constants fields and structures*
+* *Static members and static modifier*
+* *Structures*
+* *System.Object class and methods*
+* *Type conversion*
+* *Value types and reference types*
+* *Virtual methods and properties*
