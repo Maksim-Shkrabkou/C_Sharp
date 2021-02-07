@@ -53,3 +53,11 @@ This repository contains the code samples of *C# programming language*
 * *Type conversion*
 * *Value types and reference types*
 * *Virtual methods and properties*
+
+## [Chapter 4](https://github.com/Maksim-Shkrabkou/C_Sharp/tree/main/Chapter_4_Exception_handling)
+* *Catch block and exception filters*
+* *Creating exception classes*
+* *Exception types and exception class*
+* *Finding catch block when handling exceptions*
+* *Throwing an exception and the throw statement*
+* *Try catch finally*
