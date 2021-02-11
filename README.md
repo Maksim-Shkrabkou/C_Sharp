@@ -61,3 +61,12 @@ This repository contains the code samples of *C# programming language*
 * *Finding catch block when handling exceptions*
 * *Throwing an exception and the throw statement*
 * *Try catch finally*
+
+## [Chapter 5](https://github.com/Maksim-Shkrabkou/C_Sharp/tree/main/Chapter_5_Delegates_Events_Lambdas)
+* *Delegates*
+* *Using delegates*
+* *Anonymous methods*
+* *Lambdas*
+* *Events*
+* *Delegate covariance and contravariance*
+* *Delegates: Action, Predicate, Func*
